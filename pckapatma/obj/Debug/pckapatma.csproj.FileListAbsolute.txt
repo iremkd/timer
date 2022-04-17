@@ -1,0 +1,9 @@
+C:\Users\User\Desktop\pckapatma\pckapatma\pckapatma\bin\Debug\pckapatma.exe.config
+C:\Users\User\Desktop\pckapatma\pckapatma\pckapatma\bin\Debug\pckapatma.exe
+C:\Users\User\Desktop\pckapatma\pckapatma\pckapatma\bin\Debug\pckapatma.pdb
+C:\Users\User\Desktop\pckapatma\pckapatma\pckapatma\obj\Debug\pckapatma.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\pckapatma\pckapatma\pckapatma\obj\Debug\pckapatma.Form1.resources
+C:\Users\User\Desktop\pckapatma\pckapatma\pckapatma\obj\Debug\pckapatma.Properties.Resources.resources
+C:\Users\User\Desktop\pckapatma\pckapatma\pckapatma\obj\Debug\pckapatma.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\pckapatma\pckapatma\pckapatma\obj\Debug\pckapatma.exe
+C:\Users\User\Desktop\pckapatma\pckapatma\pckapatma\obj\Debug\pckapatma.pdb
